@@ -1,0 +1,13 @@
+# FTP to SVN Mirror Script
+
+Script to downloads all changed files from FTP and commit it to SVN.
+It uses lftp and SVN binaries
+
+# Requirements
+
+	lftp - sophisticated command line file transfer program (ftp, http, sftp, fish, torent) http://lftp.yar.ru
+	svn - Apache Subversion 1.7 preferred
+
+# Installation
+
+	git clone https://github.com/imatefx/FTP-SVN-Mirror-Script
